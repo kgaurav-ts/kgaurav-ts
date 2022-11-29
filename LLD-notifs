@@ -1,1 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T10:56:49.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="iG6rgYqEiXC45zSLkTI7" type="github"><diagram id="0Gmg6pIjN5zz_VjLxm61">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-29T11:16:22.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="_CBPI14T7LA0y4NEReiK" type="github" pages="2">
+  <diagram id="MfXXb4WImXXGonZBl1zO" name="tables">
+    <mxGraphModel dx="513" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-1" value="notification_table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="60" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-1">
+          <mxGeometry y="30" width="210" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-3" value="notif_id" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-2">
+          <mxGeometry width="70" height="24" as="geometry">
+            <mxRectangle width="70" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-2">
+          <mxGeometry x="70" width="70" height="24" as="geometry">
+            <mxRectangle width="70" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-5" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-2">
+          <mxGeometry x="140" width="70" height="24" as="geometry">
+            <mxRectangle width="70" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-1">
+          <mxGeometry y="54" width="210" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-7" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-6">
+          <mxGeometry width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-8" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-6">
+          <mxGeometry x="70" width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-9" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-6">
+          <mxGeometry x="140" width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-1">
+          <mxGeometry y="102" width="210" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-10">
+          <mxGeometry width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-12" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-10">
+          <mxGeometry x="70" width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SHEiqIxmCzsN00dnTPzk-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="SHEiqIxmCzsN00dnTPzk-10">
+          <mxGeometry x="140" width="70" height="48" as="geometry">
+            <mxRectangle width="70" height="48" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3BrmgJNmMBpRZ1kx3Aow" name="notif_validator">
+    <mxGraphModel dx="1538" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mas6N3pDTHSOJlXkNHy8-1" value="&lt;b&gt;Goal validator:&lt;br&gt;&lt;/b&gt;1. user authentication&lt;br&gt;2. id_generation&lt;br&gt;3. logs, put on a status&lt;br&gt;4. data validation (email format, mobile no format)&lt;br&gt;5. template_validation and params validation&lt;br&gt;6. push data to notif table, put on a status&lt;br&gt;7. push the request msg to queue.&lt;br&gt;8. logs, put on a status&lt;br&gt;9. return a response with notif_id to user" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="250" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
